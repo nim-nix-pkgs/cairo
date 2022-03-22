@@ -9,7 +9,7 @@
   
   inputs.src-cairo-1_1_1.flake = false;
   inputs.src-cairo-1_1_1.owner = "nim-lang";
-  inputs.src-cairo-1_1_1.ref   = "refs/tags/1.1.1";
+  inputs.src-cairo-1_1_1.ref   = "1_1_1";
   inputs.src-cairo-1_1_1.repo  = "cairo";
   inputs.src-cairo-1_1_1.type  = "github";
   
