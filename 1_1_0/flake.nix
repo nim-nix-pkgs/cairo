@@ -11,6 +11,7 @@
   inputs.src-cairo-1_1_0.ref   = "refs/tags/1.1.0";
   inputs.src-cairo-1_1_0.owner = "nim-lang";
   inputs.src-cairo-1_1_0.repo  = "cairo";
+  inputs.src-cairo-1_1_0.dir   = "";
   inputs.src-cairo-1_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
