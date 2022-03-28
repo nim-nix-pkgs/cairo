@@ -11,7 +11,6 @@
   inputs.src-cairo-master.ref   = "refs/heads/master";
   inputs.src-cairo-master.owner = "nim-lang";
   inputs.src-cairo-master.repo  = "cairo";
-  inputs.src-cairo-master.dir   = "";
   inputs.src-cairo-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
