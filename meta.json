@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/nim-lang/cairo",
   "refs": [
-    "fatal: expected flush after ref listing",
+    "fatal: unable to access 'https://github.com/nim-lang/cairo/': SSL connection timeout",
     ""
   ],
   "heads": []
